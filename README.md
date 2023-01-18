@@ -1,3 +1,9 @@
+# Updates
+1) Use Java17. Implimented the changes stated in the [author's blog](https://thepracticaldeveloper.com/book-update-2.5.5/#no-more-spying-on-randoms)
+2) Use the more modern react hook instead of class
+
+
+
 # Learn Microservices with Spring Boot - Chapter 5
 
 This repository contains the source code of the practical use case described in the book [Learn Microservices with Spring Boot (2nd Edition)](https://tpd.io/book-extra).
